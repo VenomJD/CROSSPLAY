@@ -1,3592 +1,1162 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730314529160 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730317206876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314532257 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317209942 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314535336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317213167 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314538404 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317216252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314541481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317219339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314544555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317222464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314547625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317225544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314550707 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317228614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314553776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317231698 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314556888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317234817 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314559972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317237893 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314563070 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317240998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314566149 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317244075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314569256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317247159 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314572342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317250247 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314575421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317253314 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314578493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317256383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314581646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317259477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314584736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317262634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314587816 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317265715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314590902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317268798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314593970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317271874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314597036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317274950 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314600107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317278054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314603184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317281141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314606258 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317284219 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314609353 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317287299 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314612447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317290386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314615553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317293477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314618622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317296546 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314621772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317299666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314624838 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317302738 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314627902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317305827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314630971 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317308905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314634044 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317311983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314637109 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317315052 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314640186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317318119 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314643513 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317321190 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314646580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317324271 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314649648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317327438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314652713 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317330535 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314655793 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317333608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314658904 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317336682 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314661991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317339753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314665060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317342823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314668170 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317345903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314671244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317348982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314674874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317352064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314677956 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317355142 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314681030 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317358224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314684106 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317361307 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314687181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317364389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314690269 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317367543 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314693350 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317370639 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314696430 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317373710 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314699514 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317376796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314702588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317379881 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314705664 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317382988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314708742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317386057 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314711826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317389376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314714890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317392442 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314717970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317395524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314721037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317398605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314724109 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317401680 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314727197 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317404746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314730279 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317407825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314733353 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317410899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314736431 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317413969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314739506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317417263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314742613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317420335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314745681 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317423446 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314748749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317426548 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314751820 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317429614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314754884 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317432672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314758001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317435746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314761076 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317438814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314764202 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317441880 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314767267 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317444946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314770335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317448133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314773421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317451194 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314776512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317454270 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314779576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317457339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314782641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317460413 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314785704 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317463478 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314788790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317466547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314791851 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317469615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314794921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317472700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314798003 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317475767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314801085 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317478850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314804165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317481916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314807265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317484976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314810331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317488042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314813395 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317491118 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314816460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317494179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314819532 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317497269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314822607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317500344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314825678 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317503409 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314828745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317506475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314831819 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317509540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314834889 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317512609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314837967 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317515687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314841025 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317518747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314844124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317521812 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314847262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317524880 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314850342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317527944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314853475 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317531013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314856561 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317534084 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314859718 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317537155 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314862794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317540222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314865860 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317543363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314868928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317546469 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314872002 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317549555 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314875077 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317552626 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314878153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317555691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314881215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317558751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314884329 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317561989 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314887419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317565064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314890487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317568133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314893556 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317571216 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314896635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317574289 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314899717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317577403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314902781 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317580468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314905837 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317583534 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314908898 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317586633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314911970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317589727 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314915037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317592823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314918119 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317595959 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314921195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317599022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314924271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317602090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314927344 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317605152 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314930408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317608214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314933483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317611286 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314936584 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317614354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314939644 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317617441 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314942705 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317620504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314945769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317623590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314948846 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317626656 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314951909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317629716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314954974 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317632782 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314958034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317635847 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314961095 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317638919 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314964158 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317641986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314967219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317645064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314970283 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317648134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314973345 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317651217 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314976410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317654331 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314979495 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317657412 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314982562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317660477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314985629 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317663559 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314988694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317666625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314991760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317669690 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314994818 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317672750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730314997894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317675808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315000976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317678876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315004060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317681955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315007128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317685026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315010277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317688097 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315013344 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317691199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315016469 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317694278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315019551 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317697343 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315022626 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317700419 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315025697 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317703485 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315028774 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317706564 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315031849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317709650 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315034950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317712717 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315038030 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317715780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315041100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317718850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315044168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317721930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315047252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317725004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315050336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317728066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315053405 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317731129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315056494 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317734201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315059620 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317737274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315062689 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317740335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315065890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317743400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315068957 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317746463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315072031 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317749531 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315075124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317752591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315078192 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317755652 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315081262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317758724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315084430 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317761798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315087497 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317764890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315090598 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317767951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315093674 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317771020 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315096760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317774082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315099841 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317777141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315102959 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317780204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315106085 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317783263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315109217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317786324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315112285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317789385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315115357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317792457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315118435 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317795548 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315121508 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317798671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315124601 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315127686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315130779 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315133862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315136929 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315139995 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315143078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315146148 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315149223 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315152391 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315155471 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315158547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315161620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315164717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315167783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315170882 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315173961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315177040 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315180118 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315183181 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315186257 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315189323 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315192392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315195461 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315198525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315201591 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315204686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315207766 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315210839 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315213913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315216992 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315220071 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315223229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315226301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315229393 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315232474 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315235559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315238626 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315241692 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315244758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315247833 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315250903 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315253981 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315257065 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315260150 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315263228 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315266326 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315269558 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315272633 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315275715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315278780 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315281860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315284931 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315288016 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315291082 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315294155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315297240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315300307 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315303389 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315306486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315309587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315312656 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315315755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315318836 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315321912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315324983 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315328055 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315331137 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315334254 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315337337 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315340421 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315343489 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315346574 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315349637 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315352710 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315355783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315358863 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315361942 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315365011 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315368077 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315371150 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315374227 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315377300 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315380365 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315383450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315386528 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315389605 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315392675 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315395744 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315398815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315401908 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315405015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315408098 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315411180 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315414262 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315417351 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315420438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315423563 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315426642 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315429722 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315432809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315435917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315438989 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315442079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315445158 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315448248 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315451324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315454399 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315457476 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315460549 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315463621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315466703 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315469785 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315472870 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315475942 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315479007 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315482089 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315485163 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315488239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315491316 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315494568 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315497653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315500717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315503786 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315506862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315509943 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315513039 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315516113 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315519180 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315522253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315525325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315528427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315531498 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315534572 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315537644 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315540749 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315543817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315546885 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315549976 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315553049 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315556123 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315559249 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315562326 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315565402 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315568514 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315571680 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315574762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315577853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315580934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315584017 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315587126 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315590227 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315593424 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315596506 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315599582 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315602671 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315605743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315608818 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315611895 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315614973 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315618044 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315621131 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315624197 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315627277 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315630344 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315633429 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315636509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315639590 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315642666 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315645777 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315648862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315651934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315655001 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315658076 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315661159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315664236 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315667303 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315670412 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315673510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315676587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315679666 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315682739 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315685837 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315688912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315692057 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315695128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315698307 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315701384 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315704486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315707565 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315710636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315713708 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315716794 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315719984 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315723072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315726145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315729215 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315732300 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315735366 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315738461 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315741533 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315744620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315747685 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315750762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315753842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315756915 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315759990 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315763067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315766141 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315769217 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315772299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315775389 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315778493 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315781619 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315784704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315787778 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315791066 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315794140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315797211 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315800274 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315803350 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315806418 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315809573 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315812663 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315815770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315818844 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315822042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315825117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315828187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315831363 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315834432 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315837533 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315840621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315843696 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315846771 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315849835 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315852903 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315855973 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315859054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315862143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315865230 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315868294 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315871401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315874571 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315877651 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315880749 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315883830 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315886914 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315889987 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315893057 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315896134 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315899216 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315902291 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315905366 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315908433 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315911516 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315914589 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315917659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315920729 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315923809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315926877 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315929949 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315933034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315936110 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315939190 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315942280 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315945354 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315948438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315951509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315954622 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315957697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315960786 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315963879 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315966956 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315970144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315973247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315976321 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315979411 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315982617 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315985686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315988756 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315991847 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315994929 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730315998082 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316001157 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316004248 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316007405 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316010657 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316013725 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316016828 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316019934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316023047 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316026127 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316029207 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316032305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316035369 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316038440 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316041506 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316044582 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316047652 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316050729 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316053807 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316056917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316060226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316063302 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316066445 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316069510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316072602 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316075685 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316078761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316081839 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316084933 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316088001 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316091075 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316094141 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316097209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316100292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316103367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316106455 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316109536 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316112615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316115688 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316118784 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316122004 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316125087 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316128165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316131248 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316134317 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316137391 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316140492 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316143593 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316146682 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316149749 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316152815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316156076 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316159140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316162277 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316165359 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316168426 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316171493 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316174570 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316177696 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316180766 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316183839 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316186934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316190005 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316193098 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316196168 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316199247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316202325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316205405 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316208485 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316211564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316214692 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316217774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316220933 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316224090 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316227156 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316230226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316233303 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316236368 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316239446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316242539 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316245615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316248684 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316251784 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316254926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316258102 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316261172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316264260 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316267332 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316270414 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316273527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316276594 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316279668 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316282748 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316285819 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316288888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316291981 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316295051 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316298145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316301225 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316304295 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316307361 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316310435 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316313505 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316316575 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316319650 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316322729 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316325799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316328868 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316331935 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316335015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316338093 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316341164 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316344239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316347330 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316350408 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316353487 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316356556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316359620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316362690 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316365756 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316368839 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316371900 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-commission-clarke.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-agreement-decrease.gl.at.ply.gg:2025 => 127.0.0.1:2025 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730316374965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730317801736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
